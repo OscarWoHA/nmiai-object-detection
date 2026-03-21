@@ -1,0 +1,32 @@
+# Data (too large for git)
+shelf_images_with_coco_annotations/
+images_multiangle/
+yolo_dataset/
+yolo_dataset_nc1/
+yolo_nc1/
+colab_upload/
+eval_workspace/
+
+# Model weights (too large)
+*.pt
+*.onnx
+*.safetensors
+*.npy
+
+# Submission zips
+*.zip
+
+# Training outputs
+runs/
+weights/
+
+# Logs
+*.log
+monitor_status.json*
+state.json
+
+# OS
+.DS_Store
+__MACOSX/
+__pycache__/
+venv/

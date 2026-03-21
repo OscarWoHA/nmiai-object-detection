@@ -1,0 +1,38 @@
+{
+  "submissions": [
+    {
+      "version": "v1", "model": "YOLOv8m nc=1", "test_score": 0.5583, "rank": 9,
+      "notes": "Detection-only. Max 0.70."
+    },
+    {
+      "version": "v2", "model": "YOLOv8m nc=356 + TTA", "test_score": 0.7413, "rank": 7,
+      "notes": "BEST. Full classification. TTA. conf=0.05. 26s runtime."
+    },
+    {
+      "version": "v4", "model": "YOLOv8l nc=1 + DINOv2 classify", "test_score": 0.6863, "rank": 19,
+      "notes": "REGRESSION. DINOv2 classification worse than YOLO nc=356. 279s runtime (nearly timed out). Lesson: don't replace YOLO classifier with prototype matching."
+    }
+  ],
+  "key_learnings": {
+    "yolo_nc356_is_better_classifier": "YOLOv8 nc=356 trained end-to-end is a better classifier than DINOv2 prototype matching on this dataset",
+    "dinov2_as_supplement_not_replacement": "Use DINOv2 to ENHANCE nc=356 predictions, not replace them",
+    "runtime_matters": "Tiled inference at imgsz=1024 + DINOv2 = 279s, dangerously close to 300s limit",
+    "v2_is_baseline_to_beat": "v2 (YOLOv8m nc=356 + TTA + conf=0.05) at 0.7413 is our best"
+  },
+  "next_strategy": {
+    "approach": "Use YOLOv8l nc=356 (better model) + nc=356 class prior + optional DINOv2 fallback for rare classes only",
+    "models_training": {
+      "vm1": "DINOv2 linear head (for rare class fallback)",
+      "vm2": "YOLOv8l nc=356 v2 (resume from best checkpoint)",
+      "vm3": "YOLOv8x nc=1 (for ensemble detection)"
+    }
+  },
+  "leaderboard_snapshot": {
+    "timestamp": "2026-03-19T23:20:00",
+    "our_rank": 19,
+    "our_score": 0.7413,
+    "top": [
+      {"rank": 1, "team": "Guru Meditation", "score": 0.7694}
+    ]
+  }
+}
