@@ -2,7 +2,7 @@
 
 Grocery shelf product detection for the Norwegian Championship in AI (NM i AI 2026).
 
-**Final score: 0.9190** | Leader: 0.9266 | Scoring: `0.7 * detection_mAP@0.5 + 0.3 * classification_mAP@0.5`
+**Final score: 0.9190 mAP | 29th place** | Top score: 0.9266 | Scoring: `0.7 * detection_mAP@0.5 + 0.3 * classification_mAP@0.5`
 
 ## The Challenge
 
