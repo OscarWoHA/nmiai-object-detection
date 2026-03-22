@@ -7,7 +7,7 @@ yolo_nc1/
 colab_upload/
 eval_workspace/
 
-# Model weights (too large)
+# Model weights (uploaded to HuggingFace instead)
 *.pt
 *.onnx
 *.safetensors
@@ -24,9 +24,13 @@ weights/
 *.log
 monitor_status.json*
 state.json
+state.log
 
 # OS
 .DS_Store
 __MACOSX/
 __pycache__/
 venv/
+
+# Temp
+/tmp/

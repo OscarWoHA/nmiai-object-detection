@@ -1,0 +1,2167 @@
+[22:22:23] HIGH_MAP: yolo-train (YOLOv8l_nc1) hit mAP=0.93 — download weights!
+22:23:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.933 — DOWNLOAD WEIGHTS!
+22:24:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.936 — DOWNLOAD WEIGHTS!
+22:28:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.934 — DOWNLOAD WEIGHTS!
+22:29:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.949 — DOWNLOAD WEIGHTS!
+22:33:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.951 — DOWNLOAD WEIGHTS!
+22:34:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.950 — DOWNLOAD WEIGHTS!
+22:39:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.950 — DOWNLOAD WEIGHTS!
+22:39:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:40:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:40:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:44:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.951 — DOWNLOAD WEIGHTS!
+22:44:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:45:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.953 — DOWNLOAD WEIGHTS!
+22:45:12 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:49:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.950 — DOWNLOAD WEIGHTS!
+22:49:17 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:49:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:50:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.946 — DOWNLOAD WEIGHTS!
+22:50:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:50:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:54:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.955 — DOWNLOAD WEIGHTS!
+22:54:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:54:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:55:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.950 — DOWNLOAD WEIGHTS!
+22:55:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:55:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:59:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:59:34 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+22:59:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:00:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.951 — DOWNLOAD WEIGHTS!
+23:00:37 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:00:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:04:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.955 — DOWNLOAD WEIGHTS!
+23:04:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:04:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:05:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.950 — DOWNLOAD WEIGHTS!
+23:05:44 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:05:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:09:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:09:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:09:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:09:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:10:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:10:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:10:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:10:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:14:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:14:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:14:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:14:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:15:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:15:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:15:58 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:15:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:20:04 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:20:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:20:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:21:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:21:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:21:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:25:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:25:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:26:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:26:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:30:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:30:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:31:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:31:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:35:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:35:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:36:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:36:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:40:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:40:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:41:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:41:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:45:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:45:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:45:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:46:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:46:47 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:46:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:50:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:50:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:50:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:51:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:51:54 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:51:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:55:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:55:57 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:55:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:57:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:57:00 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:57:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:01:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:01:04 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:01:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:02:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:02:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:02:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:06:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:06:12 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:06:12 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:07:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:07:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:07:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:11:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:11:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:11:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:11:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:12:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:12:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:12:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:12:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:16:24 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:16:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:16:24 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:16:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:17:29 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:17:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:17:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:17:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:21:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:21:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:21:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:21:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:22:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:22:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:22:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:22:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:26:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:26:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:26:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:26:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:27:43 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:27:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:27:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:27:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:31:45 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:31:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:31:45 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:31:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:32:50 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:32:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:32:50 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:32:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:36:53 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:36:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:36:53 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:36:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:37:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:37:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:37:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:37:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:41:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:41:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:41:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:41:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:43:04 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+00:43:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:43:04 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:43:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:47:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:47:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:47:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:48:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:48:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:48:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:52:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:52:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:52:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:53:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:53:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:53:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:57:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:57:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:57:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+00:58:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:58:28 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+00:58:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:02:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:02:28 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+01:02:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:03:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:03:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+01:03:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:07:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:07:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:08:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:08:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:12:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:12:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:13:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:13:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:17:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:17:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:18:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:18:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:23:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:23:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:24:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:24:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:28:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:28:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:29:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:29:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:33:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:33:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:34:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:34:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:38:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:38:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:39:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:39:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:43:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:43:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:44:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:44:32 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:48:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:48:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:49:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:49:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:53:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:53:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:54:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:54:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:58:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:58:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+01:59:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:59:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:04:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:04:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:05:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:05:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:09:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:09:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:10:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:10:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:14:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:14:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:15:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:15:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:19:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:19:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:20:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:20:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:24:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:24:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:25:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:25:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:29:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:29:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:30:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:30:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:34:44 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:34:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:34:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:35:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:35:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:35:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:39:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:39:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:39:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:40:57 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:40:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:40:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:44:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:44:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:44:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:46:06 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:46:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:46:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:50:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:50:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:50:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:51:15 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:51:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:51:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:55:15 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:55:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:55:15 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+02:55:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+02:56:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+02:56:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:56:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+02:56:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:00:25 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:00:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:00:25 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:00:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:01:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:01:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:01:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:01:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:05:33 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:05:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:05:33 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:05:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:06:40 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:06:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:06:40 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:06:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:10:43 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:10:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:10:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:10:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:11:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:11:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:11:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:11:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:15:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:15:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:15:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:15:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:16:57 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:16:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:16:57 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:16:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:20:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:20:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:20:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:20:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:22:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:22:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:22:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:22:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:26:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:26:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:26:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:26:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:27:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:27:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:27:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:27:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:31:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:31:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:31:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:31:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:32:22 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:32:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:32:22 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:32:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:36:24 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:36:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:36:24 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:36:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:37:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:37:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:37:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:37:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:41:32 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:41:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:41:32 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:41:32 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:42:38 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:42:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:42:38 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:42:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:46:41 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:46:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:46:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:46:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:47:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:47:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:47:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:47:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:51:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:51:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:51:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:51:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:52:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:52:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:52:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:52:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:56:57 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:56:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:56:57 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:56:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+03:58:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+03:58:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:58:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+03:58:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:02:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:02:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:02:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:02:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:03:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:03:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:03:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:03:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:07:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:07:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:07:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:07:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:08:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:08:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:08:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:08:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:12:22 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:12:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:12:22 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:12:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:13:29 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:13:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:13:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:13:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:17:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:17:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:17:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:17:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:18:38 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:18:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:18:38 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:18:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:22:40 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:22:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:22:40 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:22:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:23:45 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:23:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:23:45 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:23:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:27:49 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:27:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:27:49 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:27:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:28:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:28:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:28:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:28:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:32:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:32:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:32:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:32:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:34:04 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:34:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:34:04 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:34:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:38:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:38:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:38:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:38:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:39:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:39:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:39:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:39:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:43:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:43:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:43:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:43:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:44:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:44:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:44:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:44:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:48:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:48:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:48:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:48:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:49:29 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:49:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:49:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:49:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:53:30 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:53:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:53:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:53:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:54:36 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:54:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:54:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:54:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:58:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:58:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:58:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:58:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:59:44 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+04:59:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:59:44 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+04:59:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:03:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:03:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:03:47 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:03:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:04:52 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:04:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:04:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:04:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:08:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:08:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:08:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:08:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:10:01 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:10:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:10:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:10:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:14:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:14:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:14:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:14:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:15:10 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:15:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:15:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:15:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:19:10 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:19:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:19:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:19:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:20:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:20:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:20:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:20:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:24:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:24:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:24:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:24:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:25:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:25:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:25:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:25:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:29:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:29:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:29:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:29:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:30:34 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:30:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:30:34 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:30:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:34:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:34:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:34:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:34:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:35:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:35:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:35:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:35:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:39:44 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:39:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:39:44 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:39:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:40:50 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:40:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:40:50 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:40:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:44:50 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:44:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:44:50 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:44:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:45:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:45:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:45:58 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:45:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:49:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:49:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:49:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:49:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:51:06 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:51:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:51:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:51:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:55:06 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:55:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:55:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:55:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:56:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+05:56:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:56:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+05:56:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:00:15 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:00:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:00:15 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:00:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:01:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:01:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:01:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:01:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:05:22 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:05:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:05:22 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:05:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:06:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:06:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:06:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:06:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:10:28 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:10:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:10:28 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:10:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:11:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:11:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:11:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:11:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:15:36 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:15:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:15:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:15:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:16:49 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:16:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:16:49 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:16:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:20:43 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:20:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:20:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:20:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:21:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:21:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:21:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:21:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:25:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:25:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:25:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:25:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:27:02 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:27:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:27:02 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:27:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:30:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:30:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:30:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:30:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:32:09 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:32:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:32:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:32:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:36:08 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:36:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:36:08 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:36:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:37:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:37:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:37:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:37:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:41:17 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:41:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:41:17 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:41:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:42:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:42:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:42:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:42:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:46:25 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:46:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:46:25 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:46:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:47:37 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:47:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:47:37 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:47:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:51:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:51:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:51:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:51:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:52:45 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:52:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:52:45 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:52:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:56:43 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:56:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:56:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:56:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:57:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+06:57:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:57:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:57:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:01:52 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:01:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:01:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:01:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:03:00 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:03:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:03:00 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:03:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:07:01 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:07:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:07:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:07:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:08:08 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:08:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:08:08 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:08:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:12:09 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:12:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:12:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:12:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:13:16 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:13:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:13:16 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:13:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:17:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:17:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:17:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:17:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:18:24 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:18:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:18:24 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:18:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:22:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:22:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:22:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:22:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:23:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:23:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:23:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:23:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:27:33 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:27:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:27:33 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:27:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:28:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:28:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:28:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:28:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:32:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:32:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:32:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:32:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:33:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:33:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:33:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:33:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:37:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:37:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:37:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:37:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:38:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:38:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:38:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:38:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:42:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:42:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:42:58 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:42:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:44:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:44:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:44:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:44:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:48:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:48:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:48:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:48:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:49:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:49:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:49:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:49:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:53:16 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:53:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:53:16 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:53:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:54:20 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:54:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:54:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:54:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:58:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:58:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:58:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:58:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:59:28 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+07:59:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:59:28 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:59:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:03:30 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:03:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:03:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:03:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:04:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:04:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:04:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:04:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:08:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:08:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:08:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:08:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:09:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:09:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:09:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:09:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:13:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:13:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:13:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:13:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:14:49 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:14:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:14:49 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:14:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:18:52 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:18:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:18:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:18:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:19:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:19:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:19:58 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:19:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:24:01 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:24:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:24:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:24:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:25:05 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:25:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:25:05 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:25:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:29:08 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:29:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:29:08 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:29:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:30:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:30:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:30:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:30:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:34:16 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:34:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:34:16 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:34:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:35:24 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:35:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:35:24 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:35:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:39:25 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:39:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:39:25 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:39:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:40:31 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:40:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:40:31 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:40:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:44:32 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:44:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:44:32 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:44:32 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:45:38 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:45:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:45:38 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:45:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:49:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:49:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:49:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:49:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:50:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+08:50:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:50:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:50:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:54:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:54:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:54:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:55:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:55:53 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:55:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+08:59:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+08:59:53 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+08:59:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:01:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:01:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+09:01:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:05:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:05:00 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+09:05:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:06:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:06:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+09:06:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:10:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:10:08 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+09:10:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:11:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:11:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+09:11:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:15:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:15:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:16:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:16:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:20:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:20:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:21:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:21:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:25:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:25:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:26:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:26:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:30:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:30:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:31:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:31:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:35:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:35:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+09:36:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+09:36:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:12:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:12:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:13:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:13:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:17:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:17:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:18:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:18:34 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:18:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:22:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:22:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:22:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:23:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:23:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:23:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:27:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:27:37 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:27:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:28:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:28:49 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:28:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:32:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:32:45 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:32:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:33:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:33:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:33:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:37:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:37:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:37:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:39:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:39:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:39:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:43:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:43:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:43:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:44:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:44:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:44:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:48:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:48:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:48:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:49:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:49:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:49:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:22:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:22:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:22:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:22:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:24:02 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:24:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:24:02 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:24:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:27:30 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:27:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:27:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:27:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:29:10 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:29:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:29:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:29:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:32:37 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:32:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:32:37 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:32:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:34:17 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:34:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:34:17 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:34:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:37:44 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:37:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:37:44 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:37:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:39:25 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:39:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:39:25 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:39:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:42:53 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:42:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:42:53 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:42:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:44:33 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:44:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:44:33 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:44:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:48:01 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:48:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:48:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:48:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:49:41 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:49:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:49:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:49:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:53:09 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:53:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:53:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:53:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:54:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:54:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:54:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:58:16 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:58:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:58:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:59:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:59:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:59:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:03:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:03:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:05:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:05:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:08:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:08:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:10:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:10:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:13:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:13:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:15:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:15:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:18:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:18:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:20:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:20:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:23:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:23:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:56:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:56:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:58:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+16:58:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:58:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+16:58:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:52:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+17:52:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:52:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+17:52:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:33:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+20:33:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:33:39 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:58:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+23:58:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:58:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+23:58:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:31:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:31:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:31:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:31:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:36:25 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:36:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:36:25 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:36:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:41:32 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:41:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:41:32 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:41:32 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:46:39 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:46:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:46:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:51:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:51:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:51:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:56:54 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:56:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:56:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:02:02 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:02:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:02:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:07:09 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:07:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:07:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:12:17 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:12:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:12:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:17:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:17:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:17:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:22:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:22:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:27:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:27:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:32:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:32:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:37:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:37:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:43:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:43:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:48:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:48:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:53:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:53:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:50:44 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+15:50:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:50:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:58:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:58:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:58:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:58:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:03:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:03:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:03:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:03:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:08:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:08:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:08:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:08:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:13:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:13:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:14:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:14:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:18:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:18:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:19:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:19:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:23:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:23:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:24:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:24:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:29:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:29:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:29:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:29:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:34:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:34:12 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:34:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:34:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:39:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:39:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:39:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:39:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:44:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:44:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:44:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:44:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:49:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:49:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:49:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:49:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:54:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:54:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:55:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:55:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:59:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:59:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:00:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:00:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:04:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:04:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:05:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:05:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:10:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:10:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:10:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:10:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:15:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:15:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:15:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:15:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:20:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:20:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:20:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:20:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:25:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:25:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:25:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:25:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:30:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:30:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:30:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:30:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:35:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:35:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:36:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:36:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:40:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:40:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:41:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:41:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:45:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:45:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:46:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:46:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:51:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:51:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:51:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:51:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:56:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:56:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+15:56:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+15:56:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:01:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:01:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:01:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:01:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:06:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:06:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:06:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:06:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:11:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:11:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:12:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:12:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:16:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:16:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:17:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:17:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:21:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:21:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:22:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:22:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:26:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:26:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:27:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:27:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:31:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:31:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:32:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:32:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:37:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:37:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:37:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:37:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:42:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:42:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:42:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:42:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:47:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:47:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:47:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:47:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:52:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:52:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:53:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:53:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:57:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:57:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+16:58:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+16:58:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:02:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:02:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:03:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:03:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:07:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:07:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:08:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:08:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:12:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:12:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:13:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:13:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:18:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:18:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:18:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:18:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:23:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:23:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:23:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:23:39 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:28:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:28:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:28:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:28:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:33:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:33:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:33:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:33:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:38:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:38:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:39:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:39:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:43:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:43:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:44:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:44:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:48:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:48:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:49:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:49:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:53:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:53:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:54:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:54:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:58:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:58:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+17:59:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+17:59:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:04:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:04:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:04:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:04:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:09:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:09:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:09:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:09:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:14:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:14:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:14:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:14:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:19:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:19:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:19:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:19:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:24:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:24:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:25:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:25:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:29:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:29:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:30:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:30:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:34:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:34:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:35:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:35:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:39:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:39:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:40:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:40:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:45:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:45:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:45:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:45:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:50:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:50:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:50:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:50:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:55:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:55:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+18:55:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+18:55:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:00:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:00:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:00:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:00:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:05:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:05:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:06:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:06:02 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:10:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:10:40 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:10:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:11:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:11:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:11:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:15:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:15:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:15:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:16:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:16:17 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:16:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:20:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:20:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:20:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:21:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:21:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:21:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:26:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:26:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:26:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:26:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:26:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:26:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:31:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:31:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:31:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:31:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:31:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:31:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:36:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:36:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:36:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:36:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:36:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:36:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:36:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:36:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:41:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:41:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:41:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:41:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:41:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:41:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:41:56 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:41:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:46:34 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:46:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:46:34 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:46:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:47:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:47:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:47:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:47:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:51:40 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:51:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:51:40 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:51:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:52:09 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:52:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:52:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:52:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:56:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:56:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:56:47 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:56:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+19:57:15 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+19:57:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+19:57:15 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+19:57:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:01:54 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+20:01:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:01:54 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+20:01:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:02:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+20:02:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:02:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+20:02:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:07:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:07:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:07:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:07:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:12:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:12:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:17:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:17:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:22:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:22:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:27:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:27:32 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:28:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:28:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:32:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:32:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:33:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:33:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:37:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:37:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:38:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:38:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:42:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:42:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:43:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:43:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:48:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:48:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:48:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:48:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:53:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:53:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:53:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:53:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:58:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:58:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+20:58:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+20:58:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:03:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:03:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:03:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:03:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:08:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:08:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:09:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:09:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:13:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:13:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:14:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:14:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:18:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:18:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:19:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:19:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:23:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:23:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:24:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:24:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:29:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:29:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:29:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:29:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:34:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:34:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:34:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:34:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:39:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:39:17 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:39:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:39:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:44:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:44:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:49:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:49:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:54:39 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:55:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:55:05 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+21:59:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+21:59:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:00:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:00:12 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:04:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:04:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:05:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:05:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:10:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:10:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:10:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:10:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:15:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:15:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:15:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:15:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:20:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:20:16 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:20:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:20:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:25:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:25:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:25:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:25:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:30:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:30:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:30:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:30:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:35:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:36:02 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:40:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:41:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:45:56 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:45:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:46:16 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:46:16 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:51:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:51:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:51:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:51:22 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:51:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:51:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:56:10 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:56:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:56:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+22:56:28 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+22:56:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+22:56:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:01:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:01:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:01:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:01:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:06:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:06:24 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:06:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:06:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:11:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:11:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:11:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:11:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:16:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:16:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:16:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:16:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+23:21:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:22:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:26:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:27:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:31:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:32:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:37:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:37:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:42:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:42:32 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:47:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:47:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:52:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:52:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:57:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+23:57:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:02:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:02:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:07:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:08:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:12:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:13:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:18:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:18:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:23:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:23:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:28:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:28:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:33:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:33:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:38:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:38:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:43:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:43:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:48:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:49:05 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:53:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:54:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:59:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+00:59:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:04:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:04:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:09:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:09:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:14:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:14:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:19:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:19:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:24:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:24:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:29:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:30:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:34:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:35:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:40:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:40:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:45:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:45:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:50:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:50:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:55:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+01:55:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:00:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:00:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:05:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:05:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:10:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:10:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:15:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:16:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:21:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:21:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:26:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:26:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:31:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:31:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:36:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:36:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:41:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:41:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:46:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:46:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:51:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:51:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:56:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+02:57:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:02:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:02:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:07:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:07:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:12:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:12:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:17:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:17:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:22:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:22:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:27:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:27:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:32:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:33:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:38:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:38:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:43:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:43:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:48:17 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:48:24 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:53:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:53:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:58:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+03:58:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:03:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:03:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:08:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:08:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:13:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:13:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:14:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:14:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:19:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:19:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:19:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:19:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:29:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:29:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:29:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:29:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:34:25 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:34:25 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:34:31 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:34:31 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:39:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:39:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:39:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:39:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:44:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:44:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:44:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:44:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:49:49 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:49:49 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:49:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:49:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:54:56 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:54:56 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+04:55:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+04:55:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:00:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:00:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:00:08 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:00:08 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:05:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:05:12 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:05:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:05:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:10:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:10:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:10:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:10:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:28:12 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:28:12 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:28:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:28:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:33:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:33:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:33:22 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:33:22 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:38:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:38:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:38:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:38:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:43:33 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:43:33 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:43:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:43:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:48:40 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:48:40 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:48:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:48:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:53:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:53:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:53:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:53:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:58:53 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:58:53 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+05:58:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+05:58:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:04:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:04:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:04:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:04:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:09:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:09:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:09:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:09:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:14:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:14:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:14:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:14:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:14:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:14:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:19:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:19:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:19:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:19:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:19:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:19:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:24:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:24:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:24:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:24:34 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:24:34 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:24:34 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:29:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:29:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:29:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:29:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:29:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:29:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:35:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:35:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:35:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:35:01 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:35:01 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:35:01 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:40:10 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:40:10 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:40:10 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+06:40:09 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+06:40:09 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+06:40:09 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:01:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:01:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:01:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:01:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:01:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:01:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:06:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:06:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:06:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:06:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:06:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:06:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:11:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:11:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:11:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:11:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:11:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:11:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:16:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:16:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:16:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:16:36 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:16:36 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:16:36 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:21:44 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:21:44 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:21:44 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:21:45 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:21:45 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:21:45 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:26:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:26:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:26:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:26:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:26:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:26:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:31:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:31:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:31:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:31:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:31:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:31:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:37:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:37:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:37:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+07:37:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+07:37:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+07:37:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:13:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:13:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:13:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:13:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:13:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:13:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:13:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:13:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:49:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:49:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:49:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:49:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:49:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:49:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:49:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:49:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:54:28 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:54:28 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:54:28 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:54:28 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:54:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:54:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:54:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:54:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:59:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:59:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:59:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:59:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+10:59:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+10:59:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+10:59:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+10:59:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:04:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:04:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:04:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:04:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:04:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:04:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:04:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:04:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:09:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:09:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:09:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:09:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:09:51 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:09:51 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:09:51 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:09:51 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:14:58 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:14:58 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:14:58 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:14:58 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:14:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:14:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:14:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:14:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:20:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:20:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:20:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:20:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:20:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:20:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:20:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:20:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:25:14 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:25:14 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:25:14 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:25:14 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:25:15 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:25:15 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:25:15 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:25:15 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:30:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:30:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:30:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:30:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:30:23 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:30:23 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:30:23 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:30:23 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:35:30 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:35:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:35:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:35:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:35:30 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:35:30 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:35:30 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:35:30 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:40:38 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:40:38 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:40:38 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:40:38 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:40:37 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:40:37 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:40:37 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:40:37 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:45:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:45:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:45:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:45:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:45:46 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:45:46 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:45:46 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:45:46 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:50:52 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:50:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:50:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:50:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:50:52 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:50:52 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:50:52 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:50:52 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:55:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:55:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:55:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:55:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+11:55:59 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+11:55:59 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+11:55:59 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+11:55:59 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:01:06 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:01:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:01:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:01:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:01:06 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:01:06 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:01:06 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:01:06 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:06:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:06:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:06:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:06:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:06:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:06:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:06:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:06:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:11:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:11:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:11:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:11:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:11:21 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:11:21 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:11:21 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:11:21 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:16:29 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:16:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:16:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:16:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:16:29 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:16:29 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:16:29 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:16:29 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:21:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:21:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:21:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:21:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:21:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:21:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:21:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:21:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:26:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:26:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:26:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:26:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:26:43 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:26:43 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:26:43 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:26:43 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:31:50 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:31:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:31:50 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:31:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:31:50 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:31:50 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:31:50 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:31:50 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:36:57 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:36:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:36:57 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:36:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:36:57 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:36:57 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:36:57 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:36:57 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:42:04 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:42:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:42:04 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:42:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:42:04 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:42:04 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:42:04 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:42:04 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:47:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:47:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:47:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:47:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:47:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:47:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:47:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:47:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:52:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:52:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:52:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:52:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:52:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:52:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:52:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:52:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:57:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:57:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:57:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:57:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+12:57:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+12:57:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+12:57:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+12:57:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:02:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:02:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:02:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:02:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:02:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:02:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:02:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:02:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:07:41 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:07:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:07:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:07:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:07:41 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:07:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:07:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:07:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:12:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:12:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:12:47 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:12:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:12:47 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:12:47 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:12:47 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:12:47 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:17:54 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:17:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:17:54 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:17:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:17:54 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:17:54 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:17:54 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:17:54 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:23:00 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:23:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:23:00 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:23:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:23:00 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:23:00 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:23:00 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:23:00 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:28:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:28:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:28:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:28:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:28:07 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:28:07 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:28:07 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:28:07 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:33:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:33:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:33:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:33:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:33:13 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:33:13 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:33:13 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:33:13 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:38:18 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:38:18 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:38:18 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:38:18 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:38:19 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:38:19 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:38:19 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:38:19 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:43:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:43:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:43:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:43:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:43:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:43:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:43:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:43:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:48:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:48:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:48:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:48:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:48:35 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:48:35 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:48:35 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:48:35 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:53:41 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:53:41 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:53:41 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:53:41 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:53:42 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:53:42 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:53:42 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:53:42 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:58:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:58:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:58:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:58:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+13:58:48 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+13:58:48 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+13:58:48 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+13:58:48 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:03:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:03:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:03:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:03:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:03:55 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:03:55 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:03:55 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:03:55 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:09:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:09:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:09:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:09:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:09:03 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:09:03 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:09:03 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:09:03 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:14:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:14:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:14:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:14:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:14:11 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:14:11 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:14:11 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:14:11 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:19:20 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:19:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:19:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:19:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:19:20 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:19:20 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:19:20 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:19:20 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:24:26 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:24:26 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:24:26 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:24:26 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
+14:24:27 ALERT: VM1 YOLOv8l_nc1 is IDLE (crashed/finished at epoch 103)
+14:24:27 HIGH: VM1 YOLOv8l_nc1 hit mAP=0.952 — DOWNLOAD WEIGHTS!
+14:24:27 ALERT: VM2 YOLOv8l_nc356 is IDLE (crashed/finished at epoch 100)
+14:24:27 ALERT: VM3 YOLOv8x_nc356 is IDLE (crashed/finished at epoch 72)
